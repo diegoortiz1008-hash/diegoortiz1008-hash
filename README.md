@@ -2,18 +2,13 @@
  
 <p align="center">
   <a href="https://github.com/diegoortiz1008-hash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Backend+Developer+%26+Architect;Microservices+%26+Event-Driven+Systems;AI+%2F+ML+Explorer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=FullStack+Developer+%26+Architect;Microservices+%26+Event-Driven+Systems;AI+%2F+ML+Explorer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
   🎓 Systems Engineering &amp; Mathematics Student &nbsp;|&nbsp; 💻 Full stack Developer &nbsp;|&nbsp; 🤖 AI / ML Explorer &nbsp;|&nbsp; ☁️ Cloud &amp; Microservices
 </p>
-<!-- 👉 Optional: drop a banner image or GIF here.
-     Add it to your repo (e.g. /assets/banner.gif) and uncomment the line below.
-<p align="center">
-  <img src="assets/banner.gif" width="600" alt="banner" />
-</p>
--->
+
  
 ---
  
@@ -28,6 +23,7 @@ When I'm not building APIs, you'll probably find me deploying microservices to t
 - 🔭 Currently building multiplayer & distributed systems on **Spring Boot + microservices** with agile (Scrum) practices
 - 🌱 Exploring **ML from scratch**, **RAG apps**, and **RPA with Automation Anywhere**
 - 🎯 Passionate about clean architecture, event-driven systems, and observability
+- 🧪 Member of the university's **Software Development Seedbed (Semillero de Desarrollo)**, contributing to internal software projects.
 - 🗣️ Español (native) · English (B2)
 ---
  
@@ -112,29 +108,37 @@ When I'm not building APIs, you'll probably find me deploying microservices to t
 |---|---|---|
 | 🃏 **Royal Arena** | Multiplayer card game (Clash Royale-style) on microservices. Built the Game Engine with A\* pathfinding, WebSocket/STOMP and RabbitMQ events; deployed 7 microservices + PostgreSQL + RabbitMQ on Azure with JWT (HS512). | `Spring Boot` `PostgreSQL` `RabbitMQ` `WebSocket/STOMP` `Azure` |
 | 🏆 **TechCup** | University football-tournament platform on microservices. Led the `TeamReadbull` service with role-based auth (CAPTAIN / ADMIN / ORGANIZER) and a full CI/CD pipeline (Build → Test → Docker/GHCR → Azure). | `Spring Boot` `JPA` `PostgreSQL` `GitHub Actions` `Azure` |
-| 🧠 **ML Models** | Logistic regression for heart disease from scratch in NumPy, a CNN on CIFAR-10, and a RAG app with Gemini + LangChain + Chroma. | `Python` `NumPy` `AWS SageMaker` `LangChain` |
- 
+| 🧠 **ML Models** | Logistic regression for heart disease from scratch in NumPy, a CNN on CIFAR-10, and a RAG app with Gemini + LangChain + Chroma. | `Python` `NumPy` `AWS SageMaker` `LangChain`|
+| 🍦 **Bad Dopo Cream** | Replica of the *Bad Ice Cream* arcade game with a Java Swing GUI. A simple, self-contained **monolith** built for the OOP course, applying core object-oriented principles (encapsulation, inheritance, polymorphism). | `Java` `OOP` `Swing GUI` |
+## 🌐 Networking & Systems Labs (RECO)
+
+Hands-on labs from the *Networking & Communications (RECO)* course:
+
+- 🔧 Configured **Cisco routers & switches (IOS)** in **Packet Tracer** and on physical hardware — hostnames, banners, console/VTY passwords, `show ip interface brief`
+- 🛣️ **Static routing** across multi-router topologies over serial links (DCE clock rate) and Gigabit interfaces
+- 🧮 **Subnetting** and IP addressing plans for multiple LANs
+- �switch **VLANs**, Layer-2/3 switching and **Spanning Tree** analysis
+- 📶 **Wireless networks**: wireless routers & access points with **WPA2-PSK (AES)** and DHCP
+- 🐧 **Linux/Slackware shell scripting** with network commands, plus **web & DNS server** setup (Apache, Nginx, PostgreSQL)
 ---
  
 ## 📊 GitHub Stats
  
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diegoortiz1008-hash&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoortiz1008-hash&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoortiz1008-hash&theme=tokyonight&hide_border=true" />
 </p>
----
+
+## 📫 Contact
+
+- 📱 **Phone / WhatsApp:** [+57 304 534 3429](https://wa.me/573045343429)
+- 📧 **Email:** [diegoortiz1008@gmail.com](mailto:diegoortiz1008@gmail.com)
  
 ## 📫 Connect with Me
  
 <p align="center">
-  <a href="https://linkedin.com/in/diego-andres-ortiz-sanabria">
+  <a href="[https://linkedin.com/in/diego-andres-ortiz-sanabria](https://www.linkedin.com/in/diego-andr%C3%A9s-ortiz-sanabria-85a745304/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:diegoortiz1008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/diegoortiz1008-hash">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
